@@ -1,0 +1,4 @@
+[submodule "subGit"]
+	path = subGit
+	url = git@github.com:JANguaishen/subGit.git
+	branch = master
